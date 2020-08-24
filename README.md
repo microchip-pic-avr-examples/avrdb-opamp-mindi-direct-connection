@@ -1,4 +1,4 @@
-# Getting started with Mindi® simulation and AVR®DB microcontrollers
+# Getting started with Mindi™ simulation and AVR®DB microcontrollers
 This guide will get you up and running with simulating the analog OPAMP module in AVR DB family devices using the Mindi simulation tool.
 ## Configuration: Connected Directly to Pins
 This configuration connects the bare op amp directly to the pins, allowing any standard op amp configuration to be achieved by connecting the appropriate external components
