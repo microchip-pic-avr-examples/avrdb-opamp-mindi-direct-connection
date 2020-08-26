@@ -9,7 +9,7 @@ This configuration connects the bare op amp directly to the pins, allowing any s
 ### Mindi Simulation
 ![Mindi](images/mplab-mindi-analog-simulator.png)
 
-Download and open the **Mindi schematic [here](schematics/)**
+Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/avrdb-opamp-mindi-direct-connection/releases/latest)**
 
 Press the _play_ button to simulate with an example stimulus source. Note that the un-connected op amp example is provided without any standard external circuitry. 
 
